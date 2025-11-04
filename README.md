@@ -7,3 +7,5 @@ Koymazsanın arenaya gitme süresi 25-30 saniye beklirsiniz bu süre hic birseye
 Yani süreyi değistirebilirsiniz
 
 Bütün dosyalar aynı klasörde oladır iyi kullanmalar
+
+Mac kullanıyorsanız Kedi.cpp yerine MacKedi.cpp indirip kullanabilirsiniz
