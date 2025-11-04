@@ -22,7 +22,7 @@ bool oyunsecim = 0 ;
 
 void muzikCal() {
     // MP3 dosyasını aç (ANSI sürümünü kullanıyoruz)
-    mciSendStringA("open \"C:\\Users\\Admin-Pc\\OneDrive\\Desktop\\deneyap\\7.hafta\\doors-elevator-music.mp3\" type mpegvideo alias mymusic", NULL, 0, NULL);
+    mciSendStringA("open \"Buraya Ses Dosyasının Uzantısını Ekleyin" type mpegvideo alias mymusic", NULL, 0, NULL);
 
     // Müziği çal
     mciSendStringA("play mymusic", NULL, 0, NULL);
@@ -248,4 +248,5 @@ int main(){
     cin.get();
     cin.ignore();
     return 0 ;
+
 }
